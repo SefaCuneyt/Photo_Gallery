@@ -1,0 +1,48 @@
+
+.row {
+    display: flex;
+  }
+  
+  .card {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    gap: 0;
+  }
+  
+  i {
+    color: black;
+  }
+  
+  .jumbotron {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .yenile {
+    margin: 0;
+  }
+  
+  .alert {
+    margin: 0;
+    border-radius: 0;
+  }
+  
+  .btn {
+    border-radius: 0;
+  }
+  
+  .card {
+    border-radius: 0;
+  }
+  
+  img {
+    border-radius: 0;
+  }
+  
+  
